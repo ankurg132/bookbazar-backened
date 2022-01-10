@@ -3,8 +3,9 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "start": "nodemon index.js"
   "scripts": {
-    "test": "nodemont index.js"
+    "test": "nodemon index.js"
   },
   "repository": {
     "type": "git",
